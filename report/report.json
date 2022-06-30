@@ -1,0 +1,11 @@
+{
+    "first-name": "Dieter",
+    "last-name": "Van der Zwalmen",
+    "github-url": "https://github.com/ucll-vgo2122/minesweeper-Dieter-VanderZwalmen",
+    "framework": "WPF",
+    "extensions": [
+        "Animation",
+        "Quick start",
+        "Custom mine probability"
+    ]
+}
